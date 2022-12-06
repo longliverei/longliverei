@@ -8,7 +8,7 @@ Desenvolvedor junior que procura se aprimorar cada dia mais. 🌃
 - 🎮 Jogos
 
 ![Longliverei GitHub stats](https://github-readme-stats.vercel.app/api?username=longliverei&theme=cobalt)
-### <a href="longliverei.github.io">Portfólio</a> 👹
+### [Portfólio](https://longliverei.github.io) 👹
 
 <br>
 
@@ -19,6 +19,6 @@ Desenvolvedor junior que procura se aprimorar cada dia mais. 🌃
 <br>
 
 ## ✨ Social ✨
-<a href="instagram.com/longliverei" target="_blank">Instagram</a>
+[Instagram](https://www.instagram.com/longlivereina/)
 <br>
-<a href="linkedin.com/in/reinaldoybk" target="_blank">Linkedin</a>
+[Linkedin](https://www.linkedin.com/in/reinaldoybk)
