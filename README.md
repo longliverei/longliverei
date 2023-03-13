@@ -1,6 +1,6 @@
 # 👾 Oi, me chamo Reinaldo! 👾
 
-Desenvolvedor junior que procura se aprimorar cada dia mais. 🌃
+Cyb3r_Gh0st dev. 🌃
 
 ### Gosto de:
 - 🐤 Animais
