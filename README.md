@@ -1,7 +1,5 @@
 # 👾 Oi, me chamo Reinaldo! 👾
 
-Cyb3r_Gh0st dev. 🌃
-
 ### Gosto de:
 - 🐤 Animais
 - 👻 Ler códigos
