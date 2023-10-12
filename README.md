@@ -2,10 +2,9 @@
 
 ### Gosto de:
 - 🐤 Animais
-- 👻 Ler códigos
+- 👻 Códigos
 - 🎮 Jogos
 
-![Longliverei GitHub stats](https://github-readme-stats.vercel.app/api?username=longliverei&theme=cobalt)
 ### [Portfólio](https://longliverei.github.io) 👹
 
 <br>
